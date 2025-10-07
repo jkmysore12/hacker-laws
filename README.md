@@ -1134,37 +1134,5 @@ Some useful resources and reading.
 
 - [CB Insights: 8 Laws Driving Success In Tech: Amazon's 2-Pizza Rule, The 80/20 Principle, & More](https://www.cbinsights.com/research/report/tech-laws-success-failure) - an interesting write up of some laws which have been highly influential in technology.
 
-## PDF eBook
-
-The project is available as a PDF eBook, [download the latest PDF eBook with this link](https://github.com/dwmkerr/hacker-laws/releases/latest/download/hacker-laws.pdf) or check the [release](https://github.com/dwmkerr/hacker-laws/releases) page for older versions.
-
-A new version of the eBook is created automatically when a new version tag is pushed.
-
-## Podcast
-
-Hacker Laws has been featured in [The Changelog](https://changelog.com/podcast/403), you can check out the Podcast episode with the link below:
-
-<a href="https://changelog.com/podcast/403" target="_blank"><img src="./images/changelog-podcast.png" width="800px" alt="Changelog Podcast Image" /></a>
 
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hemmatt"><img src="https://avatars.githubusercontent.com/u/22114089?v=4?s=100" width="100px;" alt="Amir Hemmati"/><br /><sub><b>Amir Hemmati</b></sub></a><br /><a href="https://github.com/dwmkerr/hacker-laws/commits?author=hemmatt" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
