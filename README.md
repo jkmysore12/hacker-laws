@@ -72,8 +72,6 @@
     - [The Principle of Least Astonishment](#the-principle-of-least-astonishment)
 - [Reading List](#reading-list)
 - [Online Resources](#online-resources)
-- [PDF eBook](#pdf-ebook)
-- [Podcast](#podcast)
 
 <!-- vim-markdown-toc -->
 
